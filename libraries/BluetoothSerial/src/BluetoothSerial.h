@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#ifndef _BLUETOOTH_SERIAL_H_
-#define _BLUETOOTH_SERIAL_H_
+#ifndef BluetoothSerial_h
+#define BluetoothSerial_h
 
 #include "sdkconfig.h"
 
